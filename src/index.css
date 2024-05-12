@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-img {
+.flex-column img {
   width: 150px;
 }
 
@@ -30,4 +30,9 @@ img {
   font-weight: 900;
   color: black;
   border-color: black;
+}
+
+.loading {
+  width: 500px;
+  
 }
